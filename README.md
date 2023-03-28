@@ -5,3 +5,4 @@ HTML<br>
 CSS<br>
 JavaScript<br>
 # Hosted Site
+https://kamal-y.github.io/Password_Generator/
