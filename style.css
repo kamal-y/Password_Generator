@@ -70,6 +70,7 @@ h1{
     letter-spacing: 1px;
     padding-right: 3.25rem;
     border:none;
+    outline: none;
   }
 
 .display::placeholder{
